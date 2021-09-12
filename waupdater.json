@@ -1,9 +1,10 @@
 {
    "records":[
       {
-         "version":"MDGram Messenger V3.0F",
-         "code":6,
-         "url":"https://www.rcwamd.xyz/mdgram/",
+         "version":"WAMD Messenger V3.0F",
+         "code":1,
+         "urlDownload":"https://www.rcwamd.xyz/fmmods/",
+         "howUpdate":"https://www.rcwamd.xyz/fmmods/",
          "changelog":"-New version available for download✌😉"
       }
    ]
