@@ -1,0 +1,4 @@
+{ 
+"web_one":"https://mb-mods.com/fouadf/", 
+"web_two":"https://www.rcwamd.xyz/mdgram/index.hhtml"
+}
