@@ -1,5 +1,5 @@
 { 
 "web_one":"https://www.rcwamd.xyz/wa_banner1/", 
-"web_two":"https://www.rcwamd.xyz/wa_banner2/"
+"web_two":"https://www.rcwamd.xyz/wa_banner2/",
 "web_mb":"https://mb-mods.com/_wabanner2.html"
 }
