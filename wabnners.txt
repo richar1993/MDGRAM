@@ -1,4 +1,4 @@
 { 
-"web_one":"https://www.rcwamd.xyz/wa_banner2/", 
+"web_one":"https://www.rcwamd.xyz/wa_banner2/index.html", 
 "web_two":"https://www.rcwamd.xyz/mdgram/index.html"
 }
