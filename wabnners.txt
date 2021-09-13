@@ -1,4 +1,4 @@
 { 
-"web_one":"https://mb-mods.com/wabanner2.html", 
+"web_one":"https://mb-mods.com/_wabanner2.html", 
 "web_two":"https://www.rcwamd.xyz/mdgram/index.html"
 }
