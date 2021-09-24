@@ -1,13 +1,13 @@
 {
    "records":[
       {
-         "version":"WAMD Messenger V2.5",
+         "version":"WAMD Messenger V2.5F",
          "code":2,
          "codeForce":1,
          "urlDownloadComWa":"https://mail.rcwamd.xyz/fmmods/comwa.html",
          "urlDownloadComYowa":"https://mail.rcwamd.xyz/fmmods/com_yowa.html",
          "howUpdate":"https://mail.rcwamd.xyz/fmmods/",
-         "changelog":"-New version available for download✌😉"
+         "changelog":"-New *FIX FINALLY* for download✌😉"
       }
    ]
 }
