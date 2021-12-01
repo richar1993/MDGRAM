@@ -4,9 +4,9 @@
          "version":"WAMD Messenger V2.5F",
          "code":3,
          "codeForce":1,
-         "urlDownloadComWa":"https://mail.rcwamd.xyz/fmmods/comwa.html",
-         "urlDownloadComYowa":"https://mail.rcwamd.xyz/fmmods/com_yowa.html",
-         "howUpdate":"https://mail.rcwamd.xyz/fmmods/",
+         "urlDownloadComWa":"https://rcwamd.xyz/wamd/comwa.html",
+         "urlDownloadComYowa":"https://rcwamd.xyz/wamd/comyo.html",
+         "howUpdate":"https://rcwamd.xyz/wamd/wamd.html",
          "changelog":"-New *FIX FINALLY* for download✌😉"
       }
    ]
