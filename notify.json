@@ -1,10 +1,9 @@
 {
    "records":[
       {
-         "nameNotify":"MDGram Messenger NOTIFY",
+         "version":"MDGram Messenger V4.0",
+         "code":8,
          "url":"https://rcwamd.xyz/mdgram/mdgram.html",
-         "StringActivate":"mostrar11",
-         "StringBoolean":"falso11",
          "changelog":"HELLO YOU HAVE NEW VERSION MDGRAM TO UPDATED 😉✌️"
       }
    ]
