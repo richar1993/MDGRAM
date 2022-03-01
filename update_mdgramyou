@@ -1,10 +1,12 @@
 {
    "records":[
       {
-         "version":"MDGramYou Messenger V5.5",
-         "code":9,
+         "version":"MDGramYou Messenger V5.5F",
+         "code":10,
          "url":"https://mb-mods.com/mdgram/mdgram/",
-         "changelog":"HELLO YOU HAVE NEW VERSION MDGRAM TO UPDATED 😉✌️"
+         "changelog":"HELLO YOU HAVE NEW VERSION FIX FINAL MDGRAMYOU  TO UPDATED 😉✌️ 
+         -- Fix Save Message in chats
+         -- Fix Mark Read Chats In Swipe Chats"
       }
    ]
 }
