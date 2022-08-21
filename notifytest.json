@@ -1,10 +1,10 @@
 {
    "records":[
       {
-         "version":"",
-         "code":0,
-         "url":"https:",
-         "changelog":"https:"
+         "version":"notifytest",
+         "code":1,
+         "url":"https://www.google.com/?hl=es",
+         "changelog":"https://www.google.com/?hl=es"
       }
    ]
 }
