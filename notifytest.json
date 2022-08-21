@@ -1,7 +1,7 @@
 {
    "records":[
       {
-         "version":"notifytest1",
+         "version":"notifytest2",
          "code":100,
          "url":"https://www.google.com/?hl=es",
          "changelog":"https://www.google.com/?hl=es"
