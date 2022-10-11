@@ -1,13 +1,13 @@
 {
    "records":[
       {
-         "version":"WAMD Messenger V5.0",
-         "code":5,
+         "version":"WAMD Messenger V6.0",
+         "code":6,
          "codeForce":1,
-         "urlDownloadComWa":"https://rcwamd.xyz/wamd/comwa.html",
-         "urlDownloadComYowa":"https://rcwamd.xyz/wamd/comyo.html",
-         "howUpdate":"https://rcwamd.xyz/wamd/wamd.html",
-         "changelog":"-New *FIX FINALLY* for download✌😉"
+         "urlDownloadComWa":"https://rcmods-apps.xyz/wamd/wamd/",
+         "urlDownloadComYowa":"https://rcmods-apps.xyz/wamd/wamd/",
+         "howUpdate":"https://rcmods-apps.xyz/wamd/wamd/",
+         "changelog":"New Version Available for Download✌😉"
       }
    ]
 }
