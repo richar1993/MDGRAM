@@ -1,11 +1,11 @@
 {
    "records":[
       {
-         "version":"",
-         "code":0,
-         "Titulo":"Custom Emoji For MDGram",
-         "url":"https://rcmods-apps.xyz/mdgram/mdgram-messenger/",
-         "changelog":"https://polished-scene-1205.bss.design/"
+         "version":"Notify V2001",
+         "code":2001,
+         "Titulo":"Notice of Support for MDGram ❤️",
+         "url":"https://rcmods-apps.xyz/",
+         "changelog":"https://raw.githubusercontent.com/richar1993/MDGRAM/main/message.json"
       }
    ]
 }
