@@ -1,16 +1,11 @@
 {
    "records":[
-      "en":{
+          {
          "version":"Notify V2002",
          "code":2002,
+         "en":{
          "Titulo":"Notice of Support for MDGram ❤️",
-         "url":"https://rcmods-apps.xyz/",
-         "changelog":"https://raw.githubusercontent.com/richar1993/MDGRAM/main/message.json"
-      }
-      "es":{
-         "version":"Notify V2002",
-         "code":2002,
-         "Titulo":"Hola Hola ❤️",
+          }
          "url":"https://rcmods-apps.xyz/",
          "changelog":"https://raw.githubusercontent.com/richar1993/MDGRAM/main/message.json"
       }
