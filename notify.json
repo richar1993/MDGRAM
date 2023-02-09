@@ -1,10 +1,10 @@
 {
    "records":[
           {
-         "version":"",
-         "code":0,
+         "version":"2300",
+         "code":2300,
          "Titulo":"Notice of Support for MDGram ❤️",
-         "url":"https://rcmods-apps.xyz/",
+         "url":"https://mdgram.app/",
          "changelog":"https://raw.githubusercontent.com/richar1993/MDGRAM/main/message.json"
       }
    ]
